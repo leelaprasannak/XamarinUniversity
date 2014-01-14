@@ -18,7 +18,7 @@ On your Mac, you'll need to have the latest Xamarin.iOS installed on this machin
 
 If you're doing your development and training on Windows, you'll need to have Xamarin.Android and Xamarin.iOS installed there. Note, that if you're doing iOS development on a Mac with Visual Studio, you'll still need a Mac Running OS X to build.
 
-You can find the Xamarin software on the [download page](xamarin.com/download).
+You can find the Xamarin software on the [download page](http://xamarin.com/download).
 
 #### Xamarin Business Tier
 
