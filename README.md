@@ -12,7 +12,15 @@ All the classes and labs of Xamarin University are based on the Xamarin version 
 
 If you're doing the iOS or Cross-platform portion of the course, you must have an Apple Computer running Mac OS X. This is both a legal and technical requirement. Apple requires that iOS Developers do their development on a Mac, and Xamarin uses the Xcode build chain to create native iOS packages.
 
-### Xamarin Business Tier
+### Xamarin Software
+
+On your Mac, you'll need to have the latest Xamarin.iOS installed on this machine, as well as Xamarin.Android, if you wish to do Android development on your Mac (you can also choose to develop Android on Windows).
+
+If you're doing your development and training on Windows, you'll need to have Xamarin.Android and Xamarin.iOS installed there. Note, that if you're doing iOS development on a Mac with Visual Studio, you'll still need a Mac Running OS X to build.
+
+You can find the Xamarin software on the [download page](xamarin.com/download).
+
+#### Xamarin Business Tier
 
 Additionally, Xamarin University has a number of corporate-focused classes that require at least the Business tier of Xamarin products. For the Fundamentals Course, Indie level is sufficient for everything except for development in Visual Studio and the WCF portion of the Intro to Web Services Class. If you're not subscribed to the Business tier, you can start a trial by following the instructions [here](http://docs.xamarin.com/guides/cross-platform/getting_started/beginning_a_xamarin_trial/)
 
