@@ -53,6 +53,10 @@ The class schedule can be found [here](https://github.com/xamarin/XamarinUnivers
 
 All class materials for Xamarin University will be posted in the [course_materials](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials) directory, categorized by course. Check back often, we'll be posting new class materials daily.
 
+# Certification
+
+For certification information, including levels and required classes, please go [here](https://github.com/xamarin/XamarinUniversity/blob/master/Certification.md).
+
 # Xamarin University Forum
 
 Say 'hi' to your fellow Xamarin University Classmates, talk about classes, labs, whatever, over at [Xamarin University Forum](http://forums.xamarin.com/categories/university)! They're also staffed by your Xamarin University Professors, so don't forget to say hi to them as well! If you don't have access to the forum, email your forum account name to <training@xamarin.com> and we'll add you right away!
