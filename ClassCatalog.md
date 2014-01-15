@@ -1,54 +1,77 @@
 # Class Catalog
 
+This is the current class catalog, but check back often, as we're adding more all the time!
+
+`Pre-requisite Notes:` Some classes have pre-requisites listed. This doesn't mean that you absolutely need to have taken the class, but you should make sure to review the course materials to make sure that you're familiar with the concepts. 
+
 ## Fundamentals Course
 
 ### Intro to Mobile/Kickstart
-**2 Hours**
+`Duration:` **2 Hours**
 
 A quick introduction to Xamarin and Mobile Development. Covers the Mobile Application Development Lifecycle, including publishing options, Xamarin tools, etc.
 
 ### Intro to iOS with Xamarin Studio
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to Mobile/Kickstart**
 
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
 
 ### Intro to iOS with Visual Studio
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to Mobile/Kickstart**
 
 Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the development environment and discusses VS specific concerns.  
 
 ### Intro to Android with Xamarin Studio
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to Mobile/Kickstart**
 
 Introduces Android development. Covers basic app creation, creating multi-screen apps with Activities, Android Resource usage, deployment, debugging, and other app fundamentals.
 
 ### Intro to Android with Visual Studio
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to Mobile/Kickstart**
 
 Same as Intro to Android with Xamarin Studio, but uses VS as the development environment.
 
 ### Tables and Collection Views in iOS
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to iOS with Visual Studio** *OR* **Intro to iOS with Xamarin Studio**
 
 Teaches how to use Tables (and their more expressive counterpart - UICollectionViews), including populating, handling selection, editing, and customizing appearance.
 
 ### List Views and Adapters in Android
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Intro to Android with Visual Studio** *OR* **Intro to Android with Xamarin Studio**
 
 Teaches how to populate and use List Views including population, customization, selection, and more.
 
 ### Introduction to Cross-platform Mobile Development
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Tables and Collection Views in iOS** *AND* **List Views and Adapters in Android**
+
 
 Meant as a follow up to the Intro to iOS and Android classes, this course introduces how to create solutions that have multiple platform targeted applications and how to maximize code sharing between them.
 
 ### Introduction to Cross-platform Web Services
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Introduction to Cross-platform Mobile Development**
 
 Teaches how to integrate with and use web services in mobile applications. Provides an introduction to RESTful, WCF, and WSDL web service integration, as well as recommendations for new web service projects, and libraries to make web service access easier.
 
 ### Data in Mobile
-**3 Hours**
+`Duration:` **3 Hours**
+
+`Pre-requisites:` **Introduction to Cross-platform Mobile Development**
 
 Provides a solid introduction and comparison to data access and persistence in mobile apps. Covers using the native SQLite in iOS and Android, Managed SQLite in Windows Marketplace Apps, and two of the most common technologies to access them; SQLite.NET ORM and ADO.NET.
 
