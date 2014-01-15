@@ -76,33 +76,34 @@ Teaches how to integrate with and use web services in mobile applications. Provi
 Provides a solid introduction and comparison to data access and persistence in mobile apps. Covers using the native SQLite in iOS and Android, Managed SQLite in Windows Marketplace Apps, and two of the most common technologies to access them; SQLite.NET ORM and ADO.NET.
 
 ## Advanced / Al la Carte
+`Note about pre-requisites:` All *Advanced Track* classes assume you have completed the *Fundamentals Course*.
 
 ### Advanced Cross-platform Development
-**3 Hours**
+`Duration:` **3 Hours**
 
 Picks up where the Intro to Xplat class left off and introduces a number of advanced cross platform frameworks and patterns.
 
 ### Backgrounding
-**3 Hours**
+`Duration:` **3 Hours**
 
 Discusses how to perform background tasks on both iOS and Android, ensuring your apps remain responsive and can complete important operations even when they aren't visible to the user.
 
 ### Mobile Navigation Patterns
-**2 Hours**
+`Duration:` **3 Hours**
 
 Introduces the most common user interface navigation metaphors on iOS, Android, and Windows Phone. Also examines the most appropriate uses for each and how to implement them in Xamarin apps.
 
 ### Enterprise WCF Integration
-**3 Hours**
+`Duration:` **3 Hours**
 
 Explains Xamarin's support for consuming WCF services that use the BasicHttpBinding, including configuring a WCF service and creating proxy classes that can be incorporated into iOS and Android applications.
 
 ### Memory Management + Best Practices
-**3 Hours**
+`Duration:` **3 Hours**
 
 Introduces the garbage collector and provides specific advice for both iOS and Android applications to ensure your apps use memory efficiently. Also covers linking and how to diagnose memory issues.
 
 ### Publishing an App
-**3 Hours**
+`Duration:` **3 Hours**
 
 Walks through the process of building apps for release on the App Store and Google Play, including certificate setup, code-signing, packaging considerations and even guidelines for icon design and writing your app's description.
