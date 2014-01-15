@@ -13,6 +13,9 @@
 * Jan 21
   * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-21/2)
 
+* Jan 22
+  * [6pm - 9pm PST (Rob)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-22/1)
+
 * Jan 25
   * [6pm - 9pm PST (Rob)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-25)
 
@@ -30,6 +33,7 @@
 
 * Jan 25
   * [12pm - 3pm EST (Michael)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
+  * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-pst/2014-01-25)
 
 ---
 
@@ -52,20 +56,21 @@
 ### Intro to Android with Visual Studio
 
 * Jan 22
-  * [12pm - 3pm EST (Michael)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-eastern-time/2014-01-23)
+  * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-22/3)
 
 * Jan 23
-  * [6pm - 9pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-23)
-
-* Jan 25
-  * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-pst/2014-01-25)
-
+  * [12pm - 3pm EST (Michael)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-eastern-time/2014-01-23)
 
 ---
 
 ### Intro to iOS with Visual Studio
 
 * Jan 22
+  * [12pm - 3pm EST (Chris)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-eastern-time/2014-01-22/5)
+  * [1pm - 4pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22)
+  * [6pm - 9pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22/2)
+
+* Jan 23
   * [12pm - 3pm EST (Chris)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-23)
 
 
