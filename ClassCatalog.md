@@ -1,4 +1,4 @@
-#Class Catalog
+# Class Catalog
 
 ## Fundamentals Course
 
@@ -37,12 +37,12 @@ Teaches how to use Tables (and their more expressive counterpart - UICollectionV
 
 Teaches how to populate and use List Views including population, customization, selection, and more.
 
-### Introduction to Xplat
+### Introduction to Cross-platform Mobile Development
 **3 Hours**
 
 Meant as a follow up to the Intro to iOS and Android classes, this course introduces how to create solutions that have multiple platform targeted applications and how to maximize code sharing between them.
 
-### Introduction to Xplat Web Services
+### Introduction to Cross-platform Web Services
 **3 Hours**
 
 Teaches how to integrate with and use web services in mobile applications. Provides an introduction to RESTful, WCF, and WSDL web service integration, as well as recommendations for new web service projects, and libraries to make web service access easier.
