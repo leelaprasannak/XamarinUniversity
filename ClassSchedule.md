@@ -5,8 +5,12 @@
 ### Intro to Mobile/Kickstart
 
 * Jan 20
-  * [8am - 11am ???](http://xamarin.trainingrocket.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20) 
-  * [2pm - 3pm ???](http://xamarin.trainingrocket.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20/4)
+  * [8am - 11am EST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20) 
+  * [12pm - 3pm EST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20/4)
+  * [1pm - 4pm PST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/2)
+  * [6pm - 9pm PST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/4)
+  * [6pm - 9pm PST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/5)
+  * [6pm - 9pm PST](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/6)
 
 ---
 
