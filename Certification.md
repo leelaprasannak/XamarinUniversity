@@ -8,6 +8,8 @@ There are three Certified Xamarin Developer levels:
  
 The two platform-specific, i.e. **iOS** and **Android** certifications, only require expertise in that particular platform. However, the **Xamarin Certified Mobile Developer** certification requires not only expertise in both platforms, but also cross-plaform expertise as well.
 
+Certification is good for one year, and we're working on a page on the public Xamarin website that will allow people to verify via email address or name, whether some is actually certified.
+
 ## Certification Exam
 
 Near the end of the month, if you've completed the required classes for each certification, you will receive an invite to take the certification exam. More details on the exam will be following, but if you've taken the classes listed below and understood the content, then you should be able to pass the exam without issue.
