@@ -6,7 +6,7 @@ There are three Certified Xamarin Developer levels:
  * **Xamarin Certified iOS Developer**
  * **Xamarin Certified Android Developer**
  
-The two platform-specific (**iOS** + **Android**) certifications only require expertise in that particular platform. However, the **Xamarin Certified Mobile Developer** certification requires not only expertise in both platforms, but also cross-plaform expertise as well.
+The two platform-specific, i.e. **iOS** and **Android** certifications, only require expertise in that particular platform. However, the **Xamarin Certified Mobile Developer** certification requires not only expertise in both platforms, but also cross-plaform expertise as well.
 
 ## Certification Exam
 
