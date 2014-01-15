@@ -81,24 +81,24 @@
 ### List Views and Adapters in Android
 
 * Jan 24
-  * [8am - 11am EST (Michael)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-24) 
-  * [12pm - 3pm EST (Michael)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-24/3)
-  * [6pm - 9pm PST (Rob)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-24/1)
+  * [8am - 11am EST (Michael) CLASS FULL - More will be added!](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-24) 
+  * [12pm - 3pm EST (Michael) CLASS FULL - More will be added!](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-24/3)
+  * [6pm - 9pm PST (Rob) CLASS FULL - More will be added](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-24/1)
 
 
 * Jan 25
-  * [8am - 11am EST (Michael)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
+  * [8am - 11am EST (Michael) CLASS FULL - More will be added!](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
 
 ---
 
 ### Tables and Collection Views in iOS
 
 * Jan 24
-  * [12pm - 3pm EST (Chris)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
-  * [1pm - 4pm PST (Glenn)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24)
-  * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24/3)
+  * [12pm - 3pm EST (Chris) CLASS FULL - More will be added!](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
+  * [1pm - 4pm PST (Glenn) CLASS FULL - More will be added](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24)
+  * [6pm - 9pm PST (Les) CLASS FULL - More will be added](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24/3)
 
 * Jan 25
-  * [1pm - 4pm PST (Glenn)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-25)
+  * [1pm - 4pm PST (Glenn) CLASS FULL - More will be added](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-25)
 
 
