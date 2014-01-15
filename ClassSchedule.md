@@ -56,7 +56,7 @@
 ### Intro to Android with Visual Studio
 
 * Jan 22
-  * !!!!! [8am - 11am EST (Michael)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23)
+  * [8am - 11am EST (Michael)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-eastern-time/2014-01-22)
   * [6pm - 9pm PST (Les)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-22/3)
 
 * Jan 23
