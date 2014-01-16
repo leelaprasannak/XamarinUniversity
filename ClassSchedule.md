@@ -43,7 +43,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 21
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21/3)
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21)
+  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21/3)
 
 * Jan 23
