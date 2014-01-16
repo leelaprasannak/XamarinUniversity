@@ -1,5 +1,7 @@
 #Class Schedule
 
+Email <training@Xamarin.com> if you need to unregister for a class.
+
 ### Intro to Mobile/Kickstart
 
 * Jan 20
