@@ -48,7 +48,7 @@
   * [1pm - 4pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23/2)
 
 * Jan 25
-  * [12pm - 3pm EST (Chris)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
+  * [12pm - 3pm EST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
   * [6pm - 9pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-25)
 
 ---
@@ -73,7 +73,7 @@
   * [6pm - 9pm PST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22/2)
 
 * Jan 23
-  * [12pm - 3pm EST (Chris)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-23)
+  * [12pm - 3pm EST (Glenn)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-23)
 
 
 ---
