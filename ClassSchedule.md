@@ -88,7 +88,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 
 * Jan 25
-  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
+  * `Class Full` [8am - 11am EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
 
 ---
 
