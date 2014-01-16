@@ -96,7 +96,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 ### Tables and Collection Views in iOS
 
 * Jan 23
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-23)
+  * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-23)
 
 * Jan 24
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
