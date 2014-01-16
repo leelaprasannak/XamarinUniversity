@@ -5,7 +5,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 ### Intro to Mobile/Kickstart
 
 * Jan 20
-  * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20) 
+  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20) 
   * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20/4)
   * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/2)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-pst/2014-01-20/4)
