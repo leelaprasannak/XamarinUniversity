@@ -75,7 +75,7 @@ Teaches how to integrate with and use web services in mobile applications. Provi
 
 Provides a solid introduction and comparison to data access and persistence in mobile apps. Covers using the native SQLite in iOS and Android, Managed SQLite in Windows Marketplace Apps, and two of the most common technologies to access them; SQLite.NET ORM and ADO.NET.
 
-## Advanced / Al la Carte
+## Advanced / Electives
 `Note about pre-requisites:` All *Advanced Track* classes assume you have completed the *Fundamentals Course*.
 
 ### Advanced Cross-platform Development
