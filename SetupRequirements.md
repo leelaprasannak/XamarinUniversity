@@ -1,7 +1,7 @@
 Xamarin University Setup Requirements
 ========================
 
-All the classes and labs of Xamarin University are based on the Xamarin version available in the Alpha Channel, since the iOS portion uses the fantastic Xamarin iOS Designer. You can do all the class labs using either your own installs, or you can use the Virtual Machines provided below. If you want to use your own install, see the [guide on changing your update channel](http://docs.xamarin.com/recipes/cross-platform/ide/change_updates_channel/).
+You can do all the class labs using either your own installs, or you can use the pre-configured Virtual Machines provided below.  If you want to use your own install, then please read the following information carefully to make sure you have it setup properly.
 
 ## Mac Running OS X
 
@@ -9,8 +9,14 @@ If you're doing the iOS or Cross-platform portion of the course, you must have a
 
 ## Xamarin Software
 
+#### Running on a Mac ####
 On your Mac, you'll need to have the latest Xamarin.iOS installed on this machine, as well as Xamarin.Android, if you wish to do Android development on your Mac (you can also choose to develop Android on Windows).
 
+In order to use the Xamarin iOS Design support during the training, you will need to enable the **alpha channel** in Xamarin Studio. This is only a requirement for the iOS or Cross-platform tracks.  For more information, see the [guide on changing your update channel](http://docs.xamarin.com/recipes/cross-platform/ide/change_updates_channel/)
+
+**If you are doing production work in Xamarin Studio** and cannot change to the alpha channel, then we recommend using the supploed OSX Virtual Machine (details below) while you work through the labs and take the online classes.
+
+#### Running on Windows ####
 If you're doing your development and training on Windows, you'll need to have Xamarin.Android and Xamarin.iOS installed there. Note, that if you're doing iOS development on a Mac with Visual Studio, you'll still need a Mac Running OS X to build.
 
 You can find the Xamarin software on the [download page](http://xamarin.com/download).
