@@ -24,7 +24,7 @@ Xamarin University teaches both Xamarin.iOS and Xamarin.Android development. To 
 
 If you are already a Xamarin user you're probably ready to go, so skip to the next section to perform *Setup Verification*. 
 
-If you need help with your system configuration read the [detailed Setup Requirements](https://github.com/xamarin/XamarinUniversity/blob/master/SetupRequirements.md). We also provide links on [that page](https://github.com/xamarin/XamarinUniversity/blob/master/SetupRequirements.md) to pre-configured Virtual Machines that you can download and use for training purposes.
+If you need help with your system configuration read the [detailed Setup Requirements](https://github.com/xamarin/XamarinUniversity/blob/master/SetupRequirements.md). We also provide links on [that page](https://github.com/xamarin/XamarinUniversity/blob/master/SetupRequirements.md) to pre-configured Virtual Machines that you can download and use for training purposes.  If you decide to use your own setup, and plan to take the iOS or Cross-platform sessions then your Xamarin Studio installation on Mac OS must be configured to use the alpha channel - more information is available in the [detailed Setup Requirements](https://github.com/xamarin/XamarinUniversity/blob/master/SetupRequirements.md).
 
 ## Setup Verification
 
