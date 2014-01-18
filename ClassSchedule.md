@@ -116,6 +116,6 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-25)
 
 * Jan 27
- * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-27) 
+ * [8am - 11am EST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-27) 
 
 
