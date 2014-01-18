@@ -26,12 +26,12 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 ### Intro to Android with Xamarin Studio
 
 * Jan 21
-  * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21)
-  * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21/4)
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-pst/2014-01-21/4)
+  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21)
+  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21/4)
+  * `Class Full` [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-pst/2014-01-21/4)
   
 * Jan 23
-  * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23)
+  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23)
 
 * Jan 25
   * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
@@ -44,13 +44,13 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 * Jan 21
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-21/3)
   * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21)
-  * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21/3)
+  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-21/3)
 
 * Jan 23
   * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23/2)
 
 * Jan 25
-  * [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
+  * `Class Full` [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-xamarin-studio/online-webinar-us-pst/2014-01-25)
 
 ---
