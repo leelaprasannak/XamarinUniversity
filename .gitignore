@@ -12,6 +12,10 @@ TestResults
 *.suo
 *.user
 *.sln.docstates
+*.userprefs
+
+## Mac OS network streams
+.DS_Store
 
 # Build results
 [Dd]ebug/
