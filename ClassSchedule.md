@@ -59,7 +59,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 22
   * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-eastern-time/2014-01-22)
-  * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-22/3)
+  * `Class Full` [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-22/3)
 
 * Jan 23
   * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-eastern-time/2014-01-23)
@@ -70,11 +70,11 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 22
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-eastern-time/2014-01-22/5)
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22)
+  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22)
   * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22/2)
 
 * Jan 23
-  * [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-23)
+  * `Class Full` [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-23)
 
 
 ---
