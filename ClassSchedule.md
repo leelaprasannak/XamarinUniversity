@@ -70,7 +70,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 22
   * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-eastern-time/2014-01-22/5)
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22)
+  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-22/2)
 
 * Jan 23
@@ -94,7 +94,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 
 * Jan 25
-  * [8am - 11am EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
+  * `Class Full` [8am - 11am EST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-25) 
 
 * Jan 27
  * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-27)
@@ -108,7 +108,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/intro-to-android-with-visual-studio/online-webinar-us-pst/2014-01-23)
 
 * Jan 24
-  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
+  * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
   * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24)
   * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24/3)
 
