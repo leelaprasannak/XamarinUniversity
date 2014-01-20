@@ -30,10 +30,12 @@ If you need help with your system configuration read the [detailed Setup Require
 
 Due to the interactive nature of the Xamarin University classes, you will **not be allowed to participate** in a class if you don't have your development environment setup and configured correctly. **Before class**, make sure that:
 
-* You're on the Alpha channel 
+* You're on the Alpha channel ^
 * You can build and deploy the [TaskyPro](http://docs.xamarin.com/content/TaskyPro/) sample app to the:
   - Android Emulator
   - iOS Simulator
+
+^ *the Alpha channel is required to use the iOS UI Designer in Xamarin Studio. If you plan to only take Android classes you can work on the Stable channel.*
 
 If you have any issues with installation, let us know at <training@xamarin.com> and we'll setup a session with a trainer to get it resolved.
 
