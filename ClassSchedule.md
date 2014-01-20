@@ -34,7 +34,6 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-23)
 
 * Jan 25
-  * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-eastern-time/2014-01-25)
   * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/developer-training/intro-to-android-with-xamarin-studio/online-webinar-us-pst/2014-01-25)
 
 ---
