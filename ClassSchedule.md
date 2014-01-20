@@ -84,7 +84,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * `Class Full` [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-21) 
 
 * Jan 23
- * `Class Full` [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-23)
+ * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-23)
 
 * Jan 24
   * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-24) 
