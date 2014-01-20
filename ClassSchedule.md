@@ -108,7 +108,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 24
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-24)
-  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24)
+  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24)
   * `Class Full` [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/developer-training/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-24/3)
 
 * Jan 25
