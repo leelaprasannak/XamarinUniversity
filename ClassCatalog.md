@@ -9,7 +9,7 @@ This is the current class catalog, but check back often, as we're adding more al
 ### Intro to Mobile/Kickstart
 `Duration:` **2 Hours**
 
-[Video of Recorded Class](http://xamarin.wistia.com/medias/su43ze60e3)
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/su43ze60e3)
 
 A quick introduction to Xamarin and Mobile Development. Covers the Mobile Application Development Lifecycle, including publishing options, Xamarin tools, etc.
 
@@ -17,6 +17,8 @@ A quick introduction to Xamarin and Mobile Development. Covers the Mobile Applic
 `Duration:` **3 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Xamarin%20Studio)
 
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
 
@@ -32,9 +34,9 @@ Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the dev
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
-[Video of Recorded Class](http://xamarin.wistia.com/medias/mde2vpkkra)
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/mde2vpkkra)
 
-[Class Materials](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
 
 Introduces Android development. Covers basic app creation, creating multi-screen apps with Activities, Android Resource usage, deployment, debugging, and other app fundamentals.
 
@@ -56,6 +58,8 @@ Teaches how to use Tables (and their more expressive counterpart - UICollectionV
 `Duration:` **3 Hours**
 
 `Pre-requisites:` **Intro to Android with Visual Studio** *OR* **Intro to Android with Xamarin Studio**
+
+[Class Materials](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/02%20ListViews%20and%20Adapters%20in%20Android)
 
 Teaches how to populate and use List Views including population, customization, selection, and more.
 
