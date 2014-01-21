@@ -3,6 +3,15 @@ Xamarin University Setup Requirements
 
 You can do all the class labs using either your own installs, or you can use the pre-configured Virtual Machines provided below.  If you want to use your own install, then please read the following information carefully to make sure you have it setup properly.
 
+To begin, our documentation portal has detailed installation instructions for:
+
+* [Xamarin.iOS](http://docs.xamarin.com/guides/ios/getting_started/installation/)
+* [Xamarin.Android](http://docs.xamarin.com/guides/android/getting_started/installation/)
+
+### Version Requirements
+
+Xamarin University course material has been developed with the latest versions of Xamarin Studio (currently 4.2) and Visual Studio 2013. Earlier versions may still work for you, but some instructions may be slightly different (things like menu items, toolbar buttons and other features may be different in older versions of each IDE).
+
 ## Mac Running OS X
 
 If you're doing the iOS or Cross-platform portion of the course, you must have an Apple Computer running Mac OS X. This is both a legal and technical requirement. Apple requires that iOS Developers do their development on a Mac, and Xamarin uses the Xcode build chain to create native iOS packages.
