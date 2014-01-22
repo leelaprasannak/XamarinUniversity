@@ -11,6 +11,8 @@ This is the current class catalog, but check back often, as we're adding more al
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/su43ze60e3)
 
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Cross%20Platform/Intro%20to%20Mobile%20%2B%20Kickstart)
+
 A quick introduction to Xamarin and Mobile Development. Covers the Mobile Application Development Lifecycle, including publishing options, Xamarin tools, etc.
 
 ### Intro to iOS with Xamarin Studio
