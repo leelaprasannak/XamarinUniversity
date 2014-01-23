@@ -96,7 +96,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 ### Introduction to Cross-platform Mobile Development
 
 * Jan 29
-  * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-29)
+  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-29)
   * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-29)
   * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat-web-services/online-webinar-us-pst/2014-01-29)
 
