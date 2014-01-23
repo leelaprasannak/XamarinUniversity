@@ -7,14 +7,16 @@ This is the current class catalog, but check back often, as we're adding more al
 ## Fundamentals Course
 
 ### Intro to Mobile/Kickstart
-`Duration:` **2 Hours**
+`Duration:` **1 Hour**
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/su43ze60e3)
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Cross%20Platform/Intro%20to%20Mobile%20%2B%20Kickstart)
 
 A quick introduction to Xamarin and Mobile Development. Covers the Mobile Application Development Lifecycle, including publishing options, Xamarin tools, etc.
 
 ### Intro to iOS with Xamarin Studio
-`Duration:` **3 Hours**
+`Duration:` **2 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
@@ -23,14 +25,16 @@ A quick introduction to Xamarin and Mobile Development. Covers the Mobile Applic
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
 
 ### Intro to iOS with Visual Studio
-`Duration:` **3 Hours**
+`Duration:` **2 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Visual%20Studio)
 
 Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the development environment and discusses VS specific concerns.  
 
 ### Intro to Android with Xamarin Studio
-`Duration:` **3 Hours**
+`Duration:` **2 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
@@ -41,9 +45,11 @@ Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the dev
 Introduces Android development. Covers basic app creation, creating multi-screen apps with Activities, Android Resource usage, deployment, debugging, and other app fundamentals.
 
 ### Intro to Android with Visual Studio
-`Duration:` **3 Hours**
+`Duration:` **2 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
 
 Same as Intro to Android with Xamarin Studio, but uses VS as the development environment.
 
@@ -59,7 +65,9 @@ Teaches how to use Tables (and their more expressive counterpart - UICollectionV
 
 `Pre-requisites:` **Intro to Android with Visual Studio** *OR* **Intro to Android with Xamarin Studio**
 
-[Class Materials](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/02%20ListViews%20and%20Adapters%20in%20Android)
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/wh08lxeaka)
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/02%20ListViews%20and%20Adapters%20in%20Android)
 
 Teaches how to populate and use List Views including population, customization, selection, and more.
 
