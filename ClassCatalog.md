@@ -29,6 +29,8 @@ Introduces iOS development. Covers basic app creation, creating multi-screen app
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Visual%20Studio)
+
 Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the development environment and discusses VS specific concerns.  
 
 ### Intro to Android with Xamarin Studio
@@ -46,6 +48,8 @@ Introduces Android development. Covers basic app creation, creating multi-screen
 `Duration:` **2 Hours**
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
 
 Same as Intro to Android with Xamarin Studio, but uses VS as the development environment.
 
