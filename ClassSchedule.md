@@ -190,7 +190,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-29/2)
 
 * Jan 30
-  * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30)
+  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-30)
 
 * Jan 31
   * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-31)
