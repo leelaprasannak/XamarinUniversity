@@ -88,7 +88,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-27/2)
 
 * Jan 28
-  * [12pm - 3pm EST (Glenn Stephens](https://university.xamarin.com/class/fundamentals/intro-to-ios-with-visual-studio/online-webinar-us-eastern-time/2014-01-28)
+  * [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/intro-to-ios-with-visual-studio/online-webinar-us-eastern-time/2014-01-28)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/intro-to-ios-with-visual-studio/online-webinar-us-pst/2014-01-28)
 
 ---
