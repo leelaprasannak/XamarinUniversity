@@ -139,7 +139,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Jan 27
   * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-27)
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-27)
+  * `Class Full` [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-27)
 
 * Jan 28
   * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-28)
