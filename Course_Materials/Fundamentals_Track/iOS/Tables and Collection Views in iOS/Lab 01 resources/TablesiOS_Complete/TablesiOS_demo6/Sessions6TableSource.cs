@@ -36,7 +36,7 @@ namespace TablesDemo
 			return grouping [section].ElementAt (0).Begins.Date.ToString ("dd MMM yyyy");
 		}
 
-		// TODO: Step 6b: uncomment to enable navigation to the session detail screen
+		// TODO: Step 6c: uncomment to enable navigation to the session detail screen
 
 		// Navigation to the next screen by pushing a a new instance of SessionViewController passing info from the row selected
 		public override void RowSelected (UITableView tableView, NSIndexPath indexPath)
