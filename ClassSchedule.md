@@ -183,13 +183,13 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 * Jan 30
   * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30)
   * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/2)
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/3)
-  * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30)
+  * `Class Full` [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/3)
+  * `Class Full` [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30)
   * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30/3)
 
 * Jan 31
-  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31)
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31/2)
+  * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31)
+  * `Class Full` [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31/2)
   * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31)
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/3)
   * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/4)
