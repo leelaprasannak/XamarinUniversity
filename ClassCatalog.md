@@ -58,6 +58,8 @@ Same as Intro to Android with Xamarin Studio, but uses VS as the development env
 
 `Pre-requisites:` **Intro to iOS with Visual Studio** *OR* **Intro to iOS with Xamarin Studio**
 
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Tables%20and%20Collection%20Views%20in%20iOS)
+
 Teaches how to use Tables (and their more expressive counterpart - UICollectionViews), including populating, handling selection, editing, and customizing appearance.
 
 ### List Views and Adapters in Android
