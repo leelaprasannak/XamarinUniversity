@@ -16,6 +16,10 @@ Xamarin University course material has been developed with the latest versions o
 
 If you're doing the iOS or Cross-platform portion of the course, you must have an Apple Computer running Mac OS X. This is both a legal and technical requirement. Apple requires that iOS Developers do their development on a Mac, and Xamarin uses the Xcode build chain to create native iOS packages.
 
+## Android SDK Version (API Level)
+
+Most Xamarin University courses involving Android development will target Android SDK 4.3 (API level 18). SDK versions can be downloaded and installed from the Android SDK Manager (accessible from the Tools menu in Xamarin Studio). Please check the lab document prerequisites section for your specific courses to see if additional levels will need to be downloaded.
+
 ## Xamarin Software
 
 #### Running on a Mac ####
@@ -23,7 +27,7 @@ On your Mac, you'll need to have the latest Xamarin.iOS installed on this machin
 
 In order to use the Xamarin iOS Design support during the training, you will need to enable the **alpha channel** in Xamarin Studio. This is only a requirement for the iOS or Cross-platform tracks.  For more information, see the [guide on changing your update channel](http://docs.xamarin.com/recipes/cross-platform/ide/change_updates_channel/)
 
-**If you are doing production work in Xamarin Studio** and cannot change to the alpha channel, then we recommend using the supploed OSX Virtual Machine (details below) while you work through the labs and take the online classes.
+**If you are doing production work in Xamarin Studio** and cannot change to the alpha channel, then we recommend using the supplied OS X Virtual Machine (details below) while you work through the labs and take the online classes.
 
 #### Running on Windows ####
 If you're doing your development and training on Windows, you'll need to have Xamarin.Android and Xamarin.iOS installed there. Note, that if you're doing iOS development on a Mac with Visual Studio, you'll still need a Mac Running OS X to build.
