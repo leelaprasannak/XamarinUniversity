@@ -20,6 +20,8 @@ A quick introduction to Xamarin and Mobile Development. Covers the Mobile Applic
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/5ny4rknjx9)
+
 [**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Xamarin%20Studio)
 
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
