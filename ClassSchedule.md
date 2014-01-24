@@ -2,7 +2,7 @@
 
 Email <training@Xamarin.com> if you need to unregister for a class.
 
-### Intro to Mobile/Kickstart
+# Intro to Mobile/Kickstart
 
 * Jan 20
   * `Class Full` [8am - 9am EST (Michael Stonis)](https://university.xamarin.com/class/developer-training/intro-to-mobile/kickstart/online-webinar-us-eastern-time/2014-01-20) 
@@ -93,34 +93,6 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 ---
 
-### Introduction to Cross-Platform Mobile Development
-
-* Jan 29
-  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-29)
-  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-29)
-  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat-web-services/online-webinar-us-pst/2014-01-29)
-
-* Jan 30
-  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30)
-  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/2)
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/3)
-  * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30)
-  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30/3)
-
-* Jan 31
-  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31)
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31/2)
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31)
-  * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/3)
-  * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/4)
-
-* Feb 1
-  * [8am - 11am EST (James Clancey)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-02-01)
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-02-01)
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-02-01/2)
-
----
-
 ### List Views and Adapters in Android
 
 * Jan 21
@@ -198,3 +170,33 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 
 * Feb 1
   * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-02-01)
+
+---
+
+### Introduction to Cross-Platform Mobile Development
+
+* Jan 29
+  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-29)
+  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-29)
+  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat-web-services/online-webinar-us-pst/2014-01-29)
+
+* Jan 30
+  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30)
+  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/2)
+  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-30/3)
+  * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30)
+  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-30/3)
+
+* Jan 31
+  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31)
+  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-01-31/2)
+  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31)
+  * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/3)
+  * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-01-31/4)
+
+* Feb 1
+  * [8am - 11am EST (James Clancey)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-eastern-time/2014-02-01)
+  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-02-01)
+  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/introduction-to-xplat/online-webinar-us-pst/2014-02-01/2)
+
+
