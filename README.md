@@ -39,6 +39,10 @@ Due to the interactive nature of the Xamarin University classes, you will **not 
 
 If you have any issues with installation, let us know at <training@xamarin.com> and we'll setup a session with a trainer to get it resolved.
 
+## Fixing Slow Android Emulators
+
+The Android Emulators are incredibly slow out of the box, to the point where they're essentially unusable. For information on speed them up, read the instructions [here](https://github.com/xamarin/XamarinUniversity/blob/master/Accelerating_Android_Emulators.md).
+
 # Classes
 
 ## Class Catalog
