@@ -17,14 +17,7 @@ namespace TablesDemo
 
 			speakers = PopulateSpeakerData ();
 			TableView.Source = new SpeakersTableSource (speakers);
-		}
-
-		// Adjust for overlap of first row by status bar for for iOS 7
-		public override void ViewDidLayoutSubviews ()
-		{
-			base.ViewDidLayoutSubviews ();
-
-			TableView.ContentInset = new UIEdgeInsets (this.TopLayoutGuide.Length, 0, 0, 0);
+			TableView.ContentInset = new UIEdgeInsets (20, 0, 0, 0);
 		}
 
 		/// <summary>
