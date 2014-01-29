@@ -8,82 +8,67 @@ using Android.Views;
 using Android.Widget;
 using ListViewsInAndroid.Model;
 
-namespace ListViewsInAndroid 
+namespace ListViewsInAndroid
 {
-    public class SpeakersAdapter: BaseAdapter<Speaker>, ISectionIndexer
+	public class SpeakersAdapter: BaseAdapter<Speaker>, ISectionIndexer
 	{
-        private readonly List<Speaker> data;
-        private readonly Activity context;
-		
-		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers) 
+		private readonly List<Speaker> data;
+		private readonly Activity context;
+
+		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers)
 		{
 			data = speakers.OrderBy(s => s.Name).ToList();
 			context = activity;
 
-            SetupIndex();
+			SetupIndex();
 		}
 
 		// -- ISectionIndexer --
+		Java.Lang.Object[] sectionsObjects;
+		IEnumerable<IGrouping<string,Speaker>> grouping;
+		Dictionary<int, int> alphaIndex = new Dictionary<int, int>();
 
-        private string[] sections;
-        private Java.Lang.Object[] sectionsObjects;
-        private Dictionary<string, int> alphaIndex;
+		/// <summary>
+		/// Setup for ISectionIndexer
+		/// </summary>
+		void SetupIndex()
+		{
+			grouping = data.GroupBy(x => x.Name[0].ToString());
+			sectionsObjects = grouping.Select(x => new Java.Lang.String(x.Key)).ToArray();
 
-        /// <summary>
-        /// Setup for ISectionIndexer
-        /// </summary>
-        private void SetupIndex()
-        {
-            alphaIndex = new Dictionary<string, int>();
-            for (int i = 0; i < data.Count; i++) {
-                var key = data[i].Name[0].ToString();  // first character of name
-                if (!alphaIndex.ContainsKey(key)) 
-                    alphaIndex.Add(key, i);
-            }
-            sections = new string[alphaIndex.Keys.Count];
-            alphaIndex.Keys.CopyTo(sections, 0);
-            sectionsObjects = new Java.Lang.Object[sections.Length];
-            for (int i = 0; i < sections.Length; i++) {
-                sectionsObjects[i] = new Java.Lang.String(sections[i]);
-            }
-        }
+			int count = 0;
+			for (var i = 0; i < grouping.Count(); i++) {
+				alphaIndex.Add(i, count);
+				count += grouping.ElementAt(i).Count();
+			}
+		}
 
 		public int GetPositionForSection(int section)
 		{
-			return alphaIndex[sections[section]];
+			return grouping.Take(section).Sum(x => x.Count());
 		}
 
 		public int GetSectionForPosition(int position)
 		{
-			int prevSection = 0; 
-			for (int i = 0; i < sections.Length; i++) {
-				if (GetPositionForSection(i) > position && prevSection <= position) { 
-					prevSection = i; break; 
-				}
-				prevSection = i; 
-			} 
-			return prevSection; 
+			return alphaIndex.Last(x => x.Value <= position).Key;
 		}
 
 		public Java.Lang.Object[] GetSections()
 		{
 			return sectionsObjects;
 		}
-
 		// -- END ISectionIndexer --
 
 		public override long GetItemId(int position)
 		{
 			return position;
 		}
-		
-		public override Speaker this[int index]
-		{
+
+		public override Speaker this [int index] {
 			get { return data[index]; }
 		}
-		
-		public override int Count
-		{
+
+		public override int Count {
 			get { return data.Count; }
 		}
 
@@ -93,8 +78,7 @@ namespace ListViewsInAndroid
 		public override View GetView(int position, View convertView, ViewGroup parent)
 		{
 			var view = convertView;
-			if (view == null)
-			{
+			if (view == null) {
 				view = context.LayoutInflater.Inflate(Resource.Layout.speaker_row, null);
 			}
 			
@@ -107,7 +91,7 @@ namespace ListViewsInAndroid
 			var speakerNameView = view.FindViewById<TextView>(Resource.Id.speakerNameTextView);
 			speakerNameView.Text = speaker.Name;
 			
-			var companyNameTextView = view.FindViewById<TextView> (Resource.Id.companyNameTextView);
+			var companyNameTextView = view.FindViewById<TextView>(Resource.Id.companyNameTextView);
 			companyNameTextView.Text = speaker.Company;
 			
 			var twitterHandleView = view.FindViewById<TextView>(Resource.Id.twitterTextView);
@@ -115,35 +99,32 @@ namespace ListViewsInAndroid
 			
 			return view;
 		}
-		
-        private readonly Dictionary<string,WeakReference> _headshots = new Dictionary<string, WeakReference>();
 
-		private Drawable GetHeadShot(string url) 
+		private readonly Dictionary<string,WeakReference> _headshots = new Dictionary<string, WeakReference>();
+
+		private Drawable GetHeadShot(string url)
 		{
-            Drawable headshotDrawable = null;
-            WeakReference wr;
+			Drawable headshotDrawable = null;
+			WeakReference wr;
 
-            if (_headshots.TryGetValue(url, out wr)) {
-                headshotDrawable = wr.Target as Drawable;
-                if (headshotDrawable != null)
-                    return headshotDrawable;
-                else {
-                    _headshots.Remove(url);
-                }
-            }
-
-			try 
-			{
-				headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
-                _headshots.Add(url, new WeakReference(headshotDrawable));
+			if (_headshots.TryGetValue(url, out wr)) {
+				headshotDrawable = wr.Target as Drawable;
+				if (headshotDrawable != null)
+					return headshotDrawable;
+				else {
+					_headshots.Remove(url);
+				}
 			}
-			catch (Exception ex) 
-			{
-				Log.Debug (GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString ());
+
+			try {
+				headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
+				_headshots.Add(url, new WeakReference(headshotDrawable));
+			} catch (Exception ex) {
+				Log.Debug(GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString());
 				headshotDrawable = null;
 			}
 
-            return headshotDrawable;
+			return headshotDrawable;
 		}
 	}
 }

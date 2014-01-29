@@ -11,7 +11,7 @@ namespace ListViewsInAndroid
 	/// <summary>
 	/// Demo 3: Row styles
 	/// </summary>
-    [Activity (Label = "ListView.Demo3", MainLauncher = true, Icon="@drawable/ic_launcher")]			
+	[Activity(Label = "ListView.Demo3", MainLauncher = true, Icon = "@drawable/ic_launcher")]			
 	public class SpeakersActivity : ListActivity
 	{
 		private SpeakersAdapter adapter;
@@ -20,7 +20,7 @@ namespace ListViewsInAndroid
 		{
 			base.OnCreate(bundle);
 
-            adapter = new SpeakersAdapter(this, Speakers.GetSpeakerData());
+			adapter = new SpeakersAdapter(this, Speakers.GetSpeakerData());
 			ListView.Adapter = adapter;
 		}
 

@@ -10,7 +10,7 @@ namespace ListViewsInAndroid
 	/// starting a new activity with an Intent. It's not really part of the
 	/// ListView training per se.
 	/// </summary>
-	[Activity (Label = "Speaker")]
+	[Activity(Label = "Speaker")]
 	public class SpeakerActivity : Activity
 	{
 		protected override void OnCreate(Bundle bundle)
@@ -20,9 +20,9 @@ namespace ListViewsInAndroid
 			// Set our view from the "main" layout resource
 			SetContentView(Resource.Layout.speaker_screen);
 
-			var name = Intent.Extras.GetString ("Name");
+			var name = Intent.Extras.GetString("Name");
 
-			FindViewById<TextView> (Resource.Id.speakerNameTextView).Text = name;
+			FindViewById<TextView>(Resource.Id.speakerNameTextView).Text = name;
 			// Exercise: populate the other fields :)
 			// you could pass them all via PutString and GetString, 
 			// or look up the Speaker data again from this method

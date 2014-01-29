@@ -12,27 +12,25 @@ namespace ListViewsInAndroid
 	/// </summary>
 	public class SpeakersAdapter: BaseAdapter<Speaker>
 	{
-        private readonly List<Speaker> data;
+		private readonly List<Speaker> data;
 		private readonly Activity context;
 
-        public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers) 
+		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers)
 		{
-            data = speakers.OrderBy(s => s.Name).ToList();
+			data = speakers.OrderBy(s => s.Name).ToList();
 			context = activity;
 		}
 
-        public override long GetItemId(int position)
+		public override long GetItemId(int position)
 		{
-            return position;
+			return position;
 		}
 
-		public override Speaker this[int index]
-		{
+		public override Speaker this [int index] {
 			get { return data[index]; }
 		}
 
-		public override int Count
-		{
+		public override int Count {
 			get { return data.Count; }
 		}
 

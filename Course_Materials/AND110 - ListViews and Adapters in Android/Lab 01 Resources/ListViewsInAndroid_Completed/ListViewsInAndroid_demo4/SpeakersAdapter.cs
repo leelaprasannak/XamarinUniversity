@@ -8,34 +8,32 @@ using Android.Views;
 using Android.Widget;
 using ListViewsInAndroid.Model;
 
-namespace ListViewsInAndroid 
+namespace ListViewsInAndroid
 {
 	/// <summary>
 	/// Demo 4: Custom row layout
 	/// </summary>
-	public class SpeakersAdapter: BaseAdapter<Speaker> 
-    {
-        private readonly List<Speaker> data;
-        private readonly Activity context;
-		
-		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers) 
+	public class SpeakersAdapter: BaseAdapter<Speaker>
+	{
+		private readonly List<Speaker> data;
+		private readonly Activity context;
+
+		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers)
 		{
-            data = speakers.OrderBy(s => s.Name).ToList();
+			data = speakers.OrderBy(s => s.Name).ToList();
 			context = activity;
 		}
-		
+
 		public override long GetItemId(int position)
 		{
 			return position;
 		}
-		
-		public override Speaker this[int index]
-		{
+
+		public override Speaker this [int index] {
 			get { return data[index]; }
 		}
-		
-		public override int Count
-		{
+
+		public override int Count {
 			get { return data.Count; }
 		}
 
@@ -46,13 +44,13 @@ namespace ListViewsInAndroid
 		{
 			var view = convertView;
 			if (view == null) {
-                // inflate the custom AXML layout
-                view = context.LayoutInflater.Inflate(Resource.Layout.speaker_row, null);
+				// inflate the custom AXML layout
+				view = context.LayoutInflater.Inflate(Resource.Layout.speaker_row, null);
 			}
 			
 			var speaker = data[position];
 
-            // Set the UI controls in the custom view
+			// Set the UI controls in the custom view
 			var imageView = view.FindViewById<ImageView>(Resource.Id.headshotImageView);
 			var headshot = GetHeadShot(speaker.HeadshotUrl);
 			imageView.SetImageDrawable(headshot);
@@ -60,7 +58,7 @@ namespace ListViewsInAndroid
 			var speakerNameView = view.FindViewById<TextView>(Resource.Id.speakerNameTextView);
 			speakerNameView.Text = speaker.Name;
 			
-			var companyNameTextView = view.FindViewById<TextView> (Resource.Id.companyNameTextView);
+			var companyNameTextView = view.FindViewById<TextView>(Resource.Id.companyNameTextView);
 			companyNameTextView.Text = speaker.Company;
 			
 			var twitterHandleView = view.FindViewById<TextView>(Resource.Id.twitterTextView);
@@ -68,14 +66,14 @@ namespace ListViewsInAndroid
 			
 			return view;
 		}
-		
-		private Drawable GetHeadShot(string url) 
+
+		private Drawable GetHeadShot(string url)
 		{
 			Drawable headshotDrawable = null;
-			try  {
+			try {
 				headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
-			} catch (Exception ex)  {
-				Log.Debug (GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString ());
+			} catch (Exception ex) {
+				Log.Debug(GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString());
 				headshotDrawable = null;
 			}
 			return headshotDrawable;

@@ -18,7 +18,7 @@ namespace ListViewsInAndroid
 		private readonly List<Speaker> data;
 		private readonly Activity context;
 
-		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers) 
+		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers)
 		{
 			data = speakers.OrderBy(s => s.Name).ToList();
 			context = activity;
@@ -28,24 +28,22 @@ namespace ListViewsInAndroid
 		{
 			return position;
 		}
-		
-        public override Speaker this[int index]
-		{
+
+		public override Speaker this [int index] {
 			get { return data[index]; }
 		}
-		
-        public override int Count
-		{
+
+		public override int Count {
 			get { return data.Count; }
 		}
-		
-        public override View GetView(int position, View convertView, ViewGroup parent)
+
+		public override View GetView(int position, View convertView, ViewGroup parent)
 		{
 			var view = convertView;
 			
-            if (view == null) {
-                //TODO: Demo3 - Step 1 - Comment out each type in turn and run the application to see different styles
-                view = context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem1, null);
+			if (view == null) {
+				//TODO: Demo3 - Step 1 - Comment out each type in turn and run the application to see different styles
+				view = context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem1, null);
 //              view = context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem2, null);
 //				view = context.LayoutInflater.Inflate(Android.Resource.Layout.TwoLineListItem, null);
 //				view = context.LayoutInflater.Inflate(Android.Resource.Layout.ActivityListItem, null);
@@ -53,22 +51,22 @@ namespace ListViewsInAndroid
 
 			var speaker = data[position];
 
-            // Attempt to populate the first TextView - this should be present on all
-            // the available styles.
-            TextView textView = view.FindViewById<TextView>(Android.Resource.Id.Text1);
-            if (textView != null)
-                textView.Text = speaker.Name;
+			// Attempt to populate the first TextView - this should be present on all
+			// the available styles.
+			TextView textView = view.FindViewById<TextView>(Android.Resource.Id.Text1);
+			if (textView != null)
+				textView.Text = speaker.Name;
 
-            // Try the Detail item TextView -- this is not available in every style.
-            // Specifically, this will not work in SimpleListItem1 or ActivityListItem
-            textView = view.FindViewById<TextView>(Android.Resource.Id.Text2);
-            if (textView != null)
-                textView.Text = speaker.Company;
+			// Try the Detail item TextView -- this is not available in every style.
+			// Specifically, this will not work in SimpleListItem1 or ActivityListItem
+			textView = view.FindViewById<TextView>(Android.Resource.Id.Text2);
+			if (textView != null)
+				textView.Text = speaker.Company;
 
-            // Populate the image if available; this is only available in ActivityListItem.
-            ImageView imageView = view.FindViewById<ImageView>(Android.Resource.Id.Icon);
-            if (imageView != null)
-                imageView.SetImageDrawable (GetHeadShot (speaker.HeadshotUrl));
+			// Populate the image if available; this is only available in ActivityListItem.
+			ImageView imageView = view.FindViewById<ImageView>(Android.Resource.Id.Icon);
+			if (imageView != null)
+				imageView.SetImageDrawable(GetHeadShot(speaker.HeadshotUrl));
 
 			return view;
 		}
@@ -76,16 +74,13 @@ namespace ListViewsInAndroid
 		/// <summary>
 		/// Helper to load images
 		/// </summary>
-		private Drawable GetHeadShot(string url) 
+		private Drawable GetHeadShot(string url)
 		{
 			Drawable headshotDrawable = null;
-			try 
-			{
+			try {
 				headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
-			}
-			catch (Exception ex) 
-			{
-				Log.Debug (GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString ());
+			} catch (Exception ex) {
+				Log.Debug(GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString());
 				headshotDrawable = null;
 			}
 			return headshotDrawable;

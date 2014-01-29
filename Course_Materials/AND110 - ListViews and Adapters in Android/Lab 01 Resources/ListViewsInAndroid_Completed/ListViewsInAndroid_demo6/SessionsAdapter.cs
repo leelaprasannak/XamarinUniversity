@@ -5,14 +5,14 @@ using Android.Views;
 using Android.Widget;
 using ListViewsInAndroid.Model;
 
-namespace ListViewsInAndroid 
+namespace ListViewsInAndroid
 {
-	public class SessionsAdapter: BaseAdapter<Session> 
+	public class SessionsAdapter: BaseAdapter<Session>
 	{
-        private readonly List<Session> data;
-        private readonly Activity context;
-		
-		public SessionsAdapter(Activity activity, IEnumerable<Session> sessions) 
+		private readonly List<Session> data;
+		private readonly Activity context;
+
+		public SessionsAdapter(Activity activity, IEnumerable<Session> sessions)
 		{
 			data = sessions.OrderBy(s => s.Title).ToList();
 			context = activity;
@@ -22,21 +22,19 @@ namespace ListViewsInAndroid
 		{
 			return position;
 		}
-		
-		public override Session this[int index]
-		{
+
+		public override Session this [int index] {
 			get { return data[index]; }
 		}
-		
-		public override int Count
-		{
+
+		public override int Count {
 			get { return data.Count; }
 		}
 
 		public override View GetView(int position, View convertView, ViewGroup parent)
 		{
 			var view = convertView;
-            if (view == null) {
+			if (view == null) {
 				view = context.LayoutInflater.Inflate(Android.Resource.Layout.SimpleListItem1, null);
 			}
 			

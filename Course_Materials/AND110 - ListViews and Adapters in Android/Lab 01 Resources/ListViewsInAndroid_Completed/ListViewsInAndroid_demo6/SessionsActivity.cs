@@ -12,7 +12,7 @@ namespace ListViewsInAndroid
 	/// <summary>
 	/// Demo 5: Add an index and fast-scrolling
 	/// </summary>
-	[Activity (Label = "Sessions", Icon="@drawable/ic_launcher")]			
+	[Activity(Label = "Sessions", Icon = "@drawable/ic_launcher")]			
 	public class SessionsActivity : ListActivity
 	{
 		private SessionsAdapter adapter;
@@ -21,7 +21,7 @@ namespace ListViewsInAndroid
 		{
 			base.OnCreate(bundle);
 
-            adapter = new SessionsAdapter(this, PopulateSessionData ());
+			adapter = new SessionsAdapter(this, PopulateSessionData());
 			ListView.Adapter = adapter;
 			ListView.FastScrollEnabled = true;
 		}
@@ -42,14 +42,49 @@ namespace ListViewsInAndroid
 		/// </summary>
 		protected List<Session> PopulateSessionData()
 		{
-			return new List<Session> () {
-				new Session {Title="Introduction to Mobile Development",Speaker="Bryan Costanich", Location="Ballroom", Begins=new DateTime(2013,4,14,9,0,0)},
-				new Session {Title="Hello iOS",Speaker="Bryan Costanich", Location="Ballroom", Begins=new DateTime(2013,4,14,10,0,0)},
-				new Session {Title="Hello Android",Speaker="Bryan Costanich", Location="Ballroom", Begins=new DateTime(2013,4,14,15,0,0)},
-				new Session {Title="Cross-platform Navigation",Speaker="Bryan Costanich", Location="Ballroom",Begins=new DateTime(2013,4,15,9,0,0)},
-				new Session {Title="Cross-platform Projects",Speaker="Bryan Costanich", Location="Ballroom",Begins=new DateTime(2013,4,15,9,0,0)},
-				new Session {Title="Keynote (Day 1)",Speaker="Miguel de Icaza, Nat Friedman", Location="Ballroom",Begins=new DateTime(2013,4,16,9,0,0)},
-				new Session {Title="Keynote (Day 2)",Speaker="Miguel de Icaza, Nat Friedman", Location="Ballroom",Begins=new DateTime(2013,4,17,9,0,0)},
+			return new List<Session>() {
+				new Session {
+					Title = "Introduction to Mobile Development",
+					Speaker = "Bryan Costanich",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 14, 9, 0, 0)
+				},
+				new Session {
+					Title = "Hello iOS",
+					Speaker = "Bryan Costanich",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 14, 10, 0, 0)
+				},
+				new Session {
+					Title = "Hello Android",
+					Speaker = "Bryan Costanich",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 14, 15, 0, 0)
+				},
+				new Session {
+					Title = "Cross-platform Navigation",
+					Speaker = "Bryan Costanich",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 15, 9, 0, 0)
+				},
+				new Session {
+					Title = "Cross-platform Projects",
+					Speaker = "Bryan Costanich",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 15, 9, 0, 0)
+				},
+				new Session {
+					Title = "Keynote (Day 1)",
+					Speaker = "Miguel de Icaza, Nat Friedman",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 16, 9, 0, 0)
+				},
+				new Session {
+					Title = "Keynote (Day 2)",
+					Speaker = "Miguel de Icaza, Nat Friedman",
+					Location = "Ballroom",
+					Begins = new DateTime(2013, 4, 17, 9, 0, 0)
+				},
 			};
 		}
 	}

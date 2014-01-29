@@ -8,118 +8,102 @@ using Android.Views;
 using Android.Widget;
 using ListViewsInAndroid.Model;
 
-namespace ListViewsInAndroid 
+namespace ListViewsInAndroid
 {
     public class SpeakersAdapter: BaseAdapter<Speaker>, ISectionIndexer
-	{
+    {
         private readonly List<Speaker> data;
         private readonly Activity context;
-		
-		public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers) 
-		{
-			data = speakers.OrderBy(s => s.Name).ToList();
-			context = activity;
+
+        public SpeakersAdapter(Activity activity, IEnumerable<Speaker> speakers)
+        {
+            data = speakers.OrderBy(s => s.Name).ToList();
+            context = activity;
 
             SetupIndex();
-		}
+        }
 
-		// -- ISectionIndexer --
-
-        private string[] sections;
-        private Java.Lang.Object[] sectionsObjects;
-        private Dictionary<string, int> alphaIndex;
+        // -- ISectionIndexer --
+        Java.Lang.Object[] sectionsObjects;
+        IEnumerable<IGrouping<string,Speaker>> grouping;
+        Dictionary<int, int> alphaIndex = new Dictionary<int, int>();
 
         /// <summary>
         /// Setup for ISectionIndexer
         /// </summary>
-        private void SetupIndex()
+        void SetupIndex()
         {
-            alphaIndex = new Dictionary<string, int>();
-            for (int i = 0; i < data.Count; i++) {
-                var key = data[i].Name[0].ToString();  // first character of name
-                if (!alphaIndex.ContainsKey(key)) 
-                    alphaIndex.Add(key, i);
-            }
-            sections = new string[alphaIndex.Keys.Count];
-            alphaIndex.Keys.CopyTo(sections, 0);
-            sectionsObjects = new Java.Lang.Object[sections.Length];
-            for (int i = 0; i < sections.Length; i++) {
-                sectionsObjects[i] = new Java.Lang.String(sections[i]);
+            grouping = data.GroupBy(x => x.Name[0].ToString());
+            sectionsObjects = grouping.Select(x => new Java.Lang.String(x.Key)).ToArray();
+
+            int count = 0;
+            for (var i = 0; i < grouping.Count(); i++) {
+                alphaIndex.Add(i, count);
+                count += grouping.ElementAt(i).Count();
             }
         }
 
-		public int GetPositionForSection(int section)
-		{
-			return alphaIndex[sections[section]];
-		}
+        public int GetPositionForSection(int section)
+        {
+            return grouping.Take(section).Sum(x => x.Count());
+        }
 
-		public int GetSectionForPosition(int position)
-		{
-			int prevSection = 0; 
-			for (int i = 0; i < sections.Length; i++) {
-				if (GetPositionForSection(i) > position && prevSection <= position) { 
-					prevSection = i; break; 
-				}
-				prevSection = i; 
-			} 
-			return prevSection; 
-		}
+        public int GetSectionForPosition(int position)
+        {
+            return alphaIndex.Last(x => x.Value <= position).Key;
+        }
 
-		public Java.Lang.Object[] GetSections()
-		{
-			return sectionsObjects;
-		}
+        public Java.Lang.Object[] GetSections()
+        {
+            return sectionsObjects;
+        }
+        // -- END ISectionIndexer --
 
-		// -- END ISectionIndexer --
+        public override long GetItemId(int position)
+        {
+            return position;
+        }
 
-		public override long GetItemId(int position)
-		{
-			return position;
-		}
-		
-		public override Speaker this[int index]
-		{
-			get { return data[index]; }
-		}
-		
-		public override int Count
-		{
-			get { return data.Count; }
-		}
+        public override Speaker this [int index] {
+            get { return data[index]; }
+        }
 
-		/// <summary>
-		/// CUSTOM ROW STYLE !!
-		/// </summary>
-		public override View GetView(int position, View convertView, ViewGroup parent)
-		{
-			var view = convertView;
-			if (view == null)
-			{
-				view = context.LayoutInflater.Inflate(Resource.Layout.speaker_row, null);
-			}
+        public override int Count {
+            get { return data.Count; }
+        }
+
+        /// <summary>
+        /// CUSTOM ROW STYLE !!
+        /// </summary>
+        public override View GetView(int position, View convertView, ViewGroup parent)
+        {
+            var view = convertView;
+            if (view == null) {
+                view = context.LayoutInflater.Inflate(Resource.Layout.speaker_row, null);
+            }
 			
-			var speaker = data[position];
+            var speaker = data[position];
 			
-			var imageView = view.FindViewById<ImageView>(Resource.Id.headshotImageView);
-			var headshot = GetHeadShot(speaker.HeadshotUrl);
-			imageView.SetImageDrawable(headshot);
+            var imageView = view.FindViewById<ImageView>(Resource.Id.headshotImageView);
+            var headshot = GetHeadShot(speaker.HeadshotUrl);
+            imageView.SetImageDrawable(headshot);
 			
-			var speakerNameView = view.FindViewById<TextView>(Resource.Id.speakerNameTextView);
-			speakerNameView.Text = speaker.Name;
+            var speakerNameView = view.FindViewById<TextView>(Resource.Id.speakerNameTextView);
+            speakerNameView.Text = speaker.Name;
 			
-			var companyNameTextView = view.FindViewById<TextView> (Resource.Id.companyNameTextView);
-			companyNameTextView.Text = speaker.Company;
+            var companyNameTextView = view.FindViewById<TextView>(Resource.Id.companyNameTextView);
+            companyNameTextView.Text = speaker.Company;
 			
-			var twitterHandleView = view.FindViewById<TextView>(Resource.Id.twitterTextView);
-			twitterHandleView.Text = "@" + speaker.TwitterHandle;
+            var twitterHandleView = view.FindViewById<TextView>(Resource.Id.twitterTextView);
+            twitterHandleView.Text = "@" + speaker.TwitterHandle;
 			
-			return view;
-		}
-		
+            return view;
+        }
+
         private readonly Dictionary<string,WeakReference> _headshots = new Dictionary<string, WeakReference>();
 
-		private Drawable GetHeadShot(string url) 
-		{
+        private Drawable GetHeadShot(string url)
+        {
             Drawable headshotDrawable = null;
             WeakReference wr;
 
@@ -132,19 +116,16 @@ namespace ListViewsInAndroid
                 }
             }
 
-			try 
-			{
-				headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
+            try {
+                headshotDrawable = Drawable.CreateFromStream(context.Assets.Open(url), null);
                 _headshots.Add(url, new WeakReference(headshotDrawable));
-			}
-			catch (Exception ex) 
-			{
-				Log.Debug (GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString ());
-				headshotDrawable = null;
-			}
+            } catch (Exception ex) {
+                Log.Debug(GetType().FullName, "Error getting headshot for " + url + ", " + ex.ToString());
+                headshotDrawable = null;
+            }
 
             return headshotDrawable;
-		}
-	}
+        }
+    }
 }
 

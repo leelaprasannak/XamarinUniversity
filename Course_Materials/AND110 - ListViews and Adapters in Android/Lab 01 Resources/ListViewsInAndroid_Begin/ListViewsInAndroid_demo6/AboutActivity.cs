@@ -4,7 +4,7 @@ using Android.Webkit;
 
 namespace ListViewsInAndroid
 {
-	[Activity (Label = "About")]
+	[Activity(Label = "About")]
 	public class AboutActivity : Activity
 	{
 		protected override void OnCreate(Bundle bundle)

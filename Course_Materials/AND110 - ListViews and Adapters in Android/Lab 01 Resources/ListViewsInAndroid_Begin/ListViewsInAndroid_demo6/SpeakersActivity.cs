@@ -9,16 +9,16 @@ namespace ListViewsInAndroid
 	/// <summary>
 	/// Demo 5: Add an index and fast-scrolling
 	/// </summary>
-	[Activity (Label = "Speakers", Icon="@drawable/ic_launcher")]			
+	[Activity(Label = "Speakers", Icon = "@drawable/ic_launcher")]			
 	public class SpeakersActivity : ListActivity
 	{
-        private SpeakersAdapter adapter;
+		private SpeakersAdapter adapter;
 
 		protected override void OnCreate(Bundle bundle)
 		{
 			base.OnCreate(bundle);
 
-            adapter = new SpeakersAdapter(this, Speakers.GetSpeakerData());
+			adapter = new SpeakersAdapter(this, Speakers.GetSpeakerData());
 			ListView.Adapter = adapter;
 			ListView.FastScrollEnabled = true;
 		}
