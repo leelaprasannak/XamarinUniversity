@@ -11,7 +11,7 @@ This is the current class catalog, but check back often, as we're adding more al
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/su43ze60e3)
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Cross%20Platform/Intro%20to%20Mobile%20%2B%20Kickstart)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/XAM101%20-%20Intro%20to%20Mobile%20%2B%20Kickstart)
 
 A quick introduction to Xamarin and Mobile Development. Covers the Mobile Application Development Lifecycle, including publishing options, Xamarin tools, etc.
 
@@ -22,7 +22,7 @@ A quick introduction to Xamarin and Mobile Development. Covers the Mobile Applic
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/5ny4rknjx9)
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Xamarin%20Studio)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/IOS101%20-%20Intro%20to%20iOS%20with%20Xamarin%20Studio)
 
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
 
@@ -31,7 +31,7 @@ Introduces iOS development. Covers basic app creation, creating multi-screen app
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Visual%20Studio)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/IOS102%20-%20Intro%20to%20iOS%20with%20Visual%20Studio)
 
 Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the development environment and discusses VS specific concerns.  
 
@@ -42,7 +42,7 @@ Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the dev
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/mde2vpkkra)
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/AND101%20-%20Intro%20to%20Android%20with%20Xamarin%20Studio)
 
 Introduces Android development. Covers basic app creation, creating multi-screen apps with Activities, Android Resource usage, deployment, debugging, and other app fundamentals.
 
@@ -51,7 +51,7 @@ Introduces Android development. Covers basic app creation, creating multi-screen
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/01%20Intro%20to%20Android)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/AND102%20-%20Intro%20to%20Android%20with%20Visual%20Studio)
 
 Same as Intro to Android with Xamarin Studio, but uses VS as the development environment.
 
@@ -60,7 +60,7 @@ Same as Intro to Android with Xamarin Studio, but uses VS as the development env
 
 `Pre-requisites:` **Intro to iOS with Visual Studio** *OR* **Intro to iOS with Xamarin Studio**
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Tables%20and%20Collection%20Views%20in%20iOS)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/IOS110%20-%20Tables%20and%20Collection%20Views%20in%20iOS)
 
 Teaches how to use Tables (and their more expressive counterpart - UICollectionViews), including populating, handling selection, editing, and customizing appearance.
 
@@ -71,7 +71,7 @@ Teaches how to use Tables (and their more expressive counterpart - UICollectionV
 
 [**Video of Recorded Class**](http://xamarin.wistia.com/medias/wh08lxeaka)
 
-[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/Android/02%20ListViews%20and%20Adapters%20in%20Android)
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/AND110%20-%20ListViews%20and%20Adapters%20in%20Android)
 
 Teaches how to populate and use List Views including population, customization, selection, and more.
 
