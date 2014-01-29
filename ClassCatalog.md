@@ -31,6 +31,8 @@ Introduces iOS development. Covers basic app creation, creating multi-screen app
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/dd0i0xry8a)
+
 [**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/IOS102%20-%20Intro%20to%20iOS%20with%20Visual%20Studio)
 
 Essentially the same as Intro to iOS with Xamarin Studio, but uses VS as the development environment and discusses VS specific concerns.  
