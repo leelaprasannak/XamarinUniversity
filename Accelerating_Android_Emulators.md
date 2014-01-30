@@ -5,7 +5,7 @@ Out of the box, the Google Android Emulators are prohibitively slow, to the poin
  * **GenyMotion** - Genymotion provides a virtual Android environment built on top of VirtualBox, a generic x86 hardware virtualization system. A version is available free for personal use. Advanced features are available in the Indie and Business licenses.
  * **Intel HAXM Drivers** - The Intel HAXM Drivers provide hardware acceleration for x86 based emulators on Intel VT-enabled sytems. The HAXM drivers are free to use and published by Intel. 
 
-## Setting Up GenyMotion as Your Android Emulator
+## Setting Up Genymotion as Your Android Emulator
 
 1. To get started, [download VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html) and run the installer.
 
@@ -32,6 +32,8 @@ Out of the box, the Google Android Emulators are prohibitively slow, to the poin
 7. From Xamarin Studio, deploy your project and pick the Genymotion emulator as the target.
 
     ![Deploy from Xamarin Studio by selecting the running Genymotion emulator from the device list.](/Support_Files/Android_Acceleration_Screenshots/GenymotionMacDeployFromXamarinStudio.png)
+    
+_NOTE (Genymotion and Hyper-V): Genymotion uses VirtualBox under the hood, and VirtualBox has its own hypervisor. If you are using the Hyper-V hypervisor (for Windows Phone emulation, for instance), these two will not be able to run simultaneously. One way of ensuring the VirtualBox hypervisor can run is to start Windows without Hyper-V when you plan to use Genymotion. For details on this approach, check out Scott Hansleman's post on [cloning your boot configuration with Hyper-V disabled](http://www.hanselman.com/blog/SwitchEasilyBetweenVirtualBoxAndHyperVWithABCDEditBootEntryInWindows81.aspx)._
 
 ## Setting Up Your Google Android Emulator with the Intel Hardware Accelerated Execution Manager (HAXM)
 
