@@ -148,27 +148,27 @@ Email <training@Xamarin.com> if you need to unregister for a class.
 * Jan 27
   * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-27) 
   * `Class Full` [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-27/2)
-  * [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-27)
+  * `Class Full` [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-27)
   * `Class Full` [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-27/3)
 
 * Jan 28
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-28)
-  * [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-28)
+  * `Class Full` [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-28)
+  * `Class Full` [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-28)
 
 * Jan 29
-  * [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-29)
-  * [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-29)
-  * [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-29/2)
+  * `Class Full` [12pm - 3pm EST (Michael Bluestein)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-29)
+  * `Class Full` [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-29)
+  * `Class Full` [6pm - 9pm PST (Les Brown)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-29/2)
 
 * Jan 30
-  * [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-30)
+  * `Class Full` [1pm - 4pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-01-30)
 
 * Jan 31
-  * [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-31)
-  * [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-31/2)
+  * `Class Full` [8am - 11am EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-31)
+  * `Class Full` [12pm - 3pm EST (Michael Stonis)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-eastern-time/2014-01-31/2)
 
 * Feb 1
-  * [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-02-01)
+  * `Class Full` [6pm - 9pm PST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/tables-and-collection-views-in-ios/online-webinar-us-pst/2014-02-01)
 
 ---
 
