@@ -113,22 +113,22 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * `Class Full` [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-27)
 
 * Jan 28
-  * [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-28)
+  * `Class Full` [1pm - 4pm PST (Lance Bullock)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-28)
 
 * Jan 29
-  * [8am - 11am EST (James Clancey)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-29)
-  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-29/2)
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-29)
+  * `Class Full` [8am - 11am EST (James Clancey)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-29)
+  * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-29/2)
+  * `Class Full` [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-29)
 
 * Jan 30
-  * [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-30)
+  * `Class Full` [12pm - 3pm EST (Chris van Wyk)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-01-30)
 
 * Jan 31
   * [1pm - 4pm PST (Mark Smith)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-31)
-  * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-31/2)
+  * `Class Full` [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-31/2)
 
 * Feb 1
-  * [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-02-01)
+  * `Class Full` [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-02-01)
 
 ---
 
