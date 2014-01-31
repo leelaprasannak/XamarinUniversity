@@ -128,7 +128,7 @@ Email <training@Xamarin.com> if you need to unregister for a class.
   * [6pm - 9pm PST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-pst/2014-01-31/2)
 
 * Feb 1
-  * [12pm - 3pm EST (Rob Gibbens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-02-01)
+  * [12pm - 3pm EST (Glenn Stephens)](https://university.xamarin.com/class/fundamentals/list-views-and-adapters-in-android/online-webinar-us-eastern-time/2014-02-01)
 
 ---
 
